@@ -63,6 +63,6 @@ Visualization – Charts, cards, and indicators are built using native Power BI 
 
 📬 Contact
 
-For any queries or suggestions, feel free to reach out via GitHub issues or pull requests.
+For any queries or suggestions, feel free to reach out via GitHub issues or pull requests .
 
 
